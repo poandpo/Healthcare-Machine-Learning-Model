@@ -5,7 +5,7 @@ Healthcare Analytics
 
 - Healthcare에 관련된 환자, 병동, 입원 기간 등에 포함된 데이터
 - 코로나로 인해 중요해지는 Healthcare에 미칠 요소들을 미리 파악하고 예측 모델을 만들기 위해 사용
-- train shape: (103904, 18) test shape:  (25976, 18)    target: Stay(입원 기간)
+- Data shape: (318438,18)    target: Stay(입원 기간)
 
 ### 내용
 - 3가지 가설을 설정하고 검증
